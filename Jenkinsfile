@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = '2303_img'
+        IMAGE_NAME = 'dockerfile'
         CONTAINER_NAME = '2303_container' 
     }
 
